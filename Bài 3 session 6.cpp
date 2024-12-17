@@ -20,6 +20,5 @@ int main(){
 	else {
 		printf ("nhap sai mat khau roi kia ba!\n");
 	}
-	printf ("%d",correct);
 	return 0;
 }
